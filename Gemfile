@@ -55,3 +55,5 @@ end
 
 # To use debugger
 # gem 'debugger'
+
+gem 'rack-mini-profiler'
